@@ -1,0 +1,25 @@
+{
+	"name": "HAL",
+	"version": "2.1",
+	"description": "A device \"HybridAbstractLayer\" library.",
+	"keywords": "device, hal, arduino, gpio",
+	"repository":
+	{
+	  "type": "git",
+	  "url": "https://github.com/duwles/hal.git"
+	},
+	"authors":
+	[
+	  {
+		"name": "Bartosz Zwski",
+		"email": "duwless@outlook.com",
+		"maintainer": true
+	  }
+	],
+	"license": "MIT",
+	"dependencies": {
+	  "paulstoffregen/TimerOne": "^1.1"
+	},
+	"frameworks": "arduino",
+	"platforms": "atmelavr"
+  }
